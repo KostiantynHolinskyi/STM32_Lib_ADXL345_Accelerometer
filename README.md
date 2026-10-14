@@ -9,4 +9,4 @@ STM32 Lib ADXL345 Accelerometer I2C and SPI
 
 Инициализация и примеры работы в файле example.txt
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
